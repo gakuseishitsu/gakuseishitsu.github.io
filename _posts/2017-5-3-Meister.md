@@ -14,7 +14,6 @@ title: 鳥人間サークルで作ったもの
 * 計測機器 : プロペラの回転計など飛んでいる飛行機の状態を計測する機器
 * 表示機器 : 計測機器の状態をパイロットがリアルタイムで確認するための表示機器
 * 操縦系統 : 飛行機が進行方法や姿勢を変更するための尾翼の回転機構や制御機器
-* その他 : サークル所属中に遊びで作ったもの
 
 ## 回転計
 
@@ -63,11 +62,3 @@ GPS受信モジュールから座標情報をもらって, 液晶に地図と座
 操縦系統とは, 飛行機が進行方法や姿勢を変更するための尾翼の回転機構や制御機器である.  
 
 パイロットがジョイスティックを動かすと, 電気的に尾翼が動くようになっている. CFRPやすって工作するのは非常に楽しかった.  
-
-## その他
-
-<img src="https://gakuseishitsu.github.io/images/meister_other1.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_other2.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_other3.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_other4.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_other5.jpg">
