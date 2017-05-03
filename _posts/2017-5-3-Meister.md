@@ -60,9 +60,10 @@ GPS受信モジュールから座標情報をもらって, 液晶に地図と座
 
 ## 操縦系統
 
-### 尾翼機構
-
-### 尾翼制御機器
+<img src="https://gakuseishitsu.github.io/images/meister_control1.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_control2.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_control3.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_control4.jpg">
 
 ## システム
 
