@@ -26,17 +26,25 @@ title: 鳥人間サークルで作ったもの
 <img src="https://gakuseishitsu.github.io/images/rotation_sensor.jpg">
 <img src="https://gakuseishitsu.github.io/images/rotation_sensor2.jpg">
 
-回転計とは, 人力飛行機のプロペラの回転速度を計測する機器である(最初に作ったものなのに写真がない...).  
+回転計とは, 人力飛行機のプロペラの回転速度を計測する機器である(大学入って最初に作ったものなのに写真がない...).  
+
 プロペラに回転を伝えるドライブシャフトにスリットの入った円盤が取り付けられシャフトとともに回転している. 機体に固定されたフォトインタラプタからは, シャフトの回転状態によって2種類の信号がパルスとなって送られる. そのパルスの幅をマイコンで計測することによって回転速度が計算できる. マイコンによって定期的に計測・計算された回転速度情報はシステムバスに送信される.  
 
-使用言語 : C言語  
-その他要した知識 : 基板CAD, 基板加工, 機械CAD, レーザ加工, 組み込みの知識
+回転を計測する方法には他にも磁気センサを用いるものや画像を使うものなどいろいろあったが, ひとまず先輩の真似事という理由で光式にした記憶がある. 簡単に回転速度を図れる方式ではあるが, 鳥人間では強い太陽光環境で使用するので遮光対策が必要になるというデメリットがあった気がする.  
 
-### 慣性計
+使用言語 : C言語  
+要した知識 : 基板CAD, 基板加工, 機械CAD, レーザ加工, 組み込みの知識
 
 ## 表示機器
 
+<img src="https://gakuseishitsu.github.io/images/meister_disp1.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_disp2.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_disp3.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_disp4.jpg">
+
 ### GPS表示器
+
+<img src="https://gakuseishitsu.github.io/images/meister_disp5.jpg">
 
 ## 操縦系統
 
