@@ -37,10 +37,18 @@ title: 鳥人間サークルで作ったもの
 
 ## 表示機器
 
+<img src="https://gakuseishitsu.github.io/images/meister_disp0.jpg">
 <img src="https://gakuseishitsu.github.io/images/meister_disp1.jpg">
 <img src="https://gakuseishitsu.github.io/images/meister_disp2.jpg">
 <img src="https://gakuseishitsu.github.io/images/meister_disp3.jpg">
 <img src="https://gakuseishitsu.github.io/images/meister_disp4.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister_disp_concept.jpg">
+
+表示機器とは, 飛んでる機体の状態をパイロットがリアルタイムで確認するための機器である. 自分のいたサークルでは, 飛行機の高度, 対気速度, プロペラの回転速度, GPS座標を確認できるような表示機器を作った. 試作機も合わせて全部で4つも作ってしまった.  
+
+基本的にはシステムバスから情報をもらって表示するだけなので特にソフトウェア的に高度なことはしていない. 構造は発砲スチロールをエポキシ樹脂で補強したような部材を用いた. 機器を取り付ける部分については発泡材では弱いため, 写真の通りアクリルやMDFを介している. 5枚目の写真が実際に機体に取り付けた状態である.  
+
+要した知識 : 機械CAD, レーザ加工
 
 ### GPS表示器
 
