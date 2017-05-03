@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: ブログ開設
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+社会人になって, 環境がすべてリセットされてしまった.  
+もう手の届く範囲にボール盤もコンタマシンもCNCフライスもないし, しばらく創る趣味はきびしそう.  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+思えばいままで作ってきたものは, twitterに完成写真を投げるくらいで, まとめるということをしてこなかった (作りたいものがいくらでもあってまとめる時間を作るモチベーションもなかった).
+そこで何もできないこのタイミングを使って, これまで作ったものをまとめようと思った.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+・ ブログを始めることが ミニマムサクセス.  
+・ 飽きずに全部まとめられたら フルサクセス.  
+・ 今後作るものもまとめられたら ドバンスドサクセス.  
+
+という目標で飽きずに頑張っていきたい.  
