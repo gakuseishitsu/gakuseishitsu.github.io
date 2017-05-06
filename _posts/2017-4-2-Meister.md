@@ -6,7 +6,7 @@ title: 鳥人間サークルで作ったもの
 
 ---
 
-<img src="https://gakuseishitsu.github.io/images/meister_2013.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_2013.jpg">
 
 大学に入って, 最初に取り組んだのは人力飛行機作り (写真は執行代の機体).  
 以下の部分を作っていた.  
@@ -17,8 +17,8 @@ title: 鳥人間サークルで作ったもの
 
 ## 回転計
 
-<img src="https://gakuseishitsu.github.io/images/rotation_sensor.jpg">
-<img src="https://gakuseishitsu.github.io/images/rotation_sensor2.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/rotation_sensor.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/rotation_sensor2.jpg">
 
 回転計とは, 人力飛行機のプロペラの回転速度を計測する機器である(大学入って最初に作ったものなのに写真がない...).  
 
@@ -28,12 +28,12 @@ title: 鳥人間サークルで作ったもの
 
 ## 表示機器
 
-<img src="https://gakuseishitsu.github.io/images/meister_disp0.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_disp1.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_disp2.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_disp3.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_disp4.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_disp_concept.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp0.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp1.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp2.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp3.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp4.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp_concept.jpg">
 
 表示機器とは, 飛んでる機体の状態をパイロットがリアルタイムで確認するための機器である.  
 
@@ -43,8 +43,8 @@ title: 鳥人間サークルで作ったもの
 
 ### GPS表示器
 
-<img src="https://gakuseishitsu.github.io/images/meister_disp5.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_gps.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_disp5.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_gps.jpg">
 
 GPS表示器とは, 表示機器の中で現在のGPS座標をパイロットに知らせるものである.  
 
@@ -54,10 +54,10 @@ GPS受信モジュールから座標情報をもらって, 液晶に地図と座
 
 ## 操縦系統
 
-<img src="https://gakuseishitsu.github.io/images/meister_control1.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_control2.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_control3.jpg">
-<img src="https://gakuseishitsu.github.io/images/meister_control4.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_control1.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_control2.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_control3.jpg">
+<img src="https://gakuseishitsu.github.io/images/meister/meister_control4.jpg">
 
 操縦系統とは, 飛行機が進行方法や姿勢を変更するための尾翼の回転機構や制御機器である.  
 
