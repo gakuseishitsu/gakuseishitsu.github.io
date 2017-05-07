@@ -10,7 +10,7 @@ permalink: /archive/
         {% for post in site.posts %}
             <li>
             <article class="post">
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <font size="3">{{ post.date | date: "%B %e, %Y" }}</font></a>
+            <a href="{{ site.baseurl }}{{ post.url }}"><font size="3">{{ post.date | date: "%B %e, %Y" }}</font> : {{ post.title }}</a>
             </article>
             </li>
         {% endfor %}
