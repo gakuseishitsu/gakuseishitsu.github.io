@@ -6,7 +6,7 @@ title: 機械式時計の3軸トゥールビヨン脱進調速機
 
 ---
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/2UgkJdyfsDs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/2UgkJdyfsDs" frameborder="0" allowfullscreen></iframe>
 
 修論を書き終わってから卒業するまでの間に作った学生最後の作品.  
 
