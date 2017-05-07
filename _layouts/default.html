@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -35,7 +35,7 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      {{ content }}{{ page.date | date: "%B %e, %Y" }}
     </div>
 
     <div class="wrapper-footer">
