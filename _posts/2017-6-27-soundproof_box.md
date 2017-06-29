@@ -24,6 +24,8 @@ title: CNCフライスの防音箱
 
 早速切削してみたが予想通りうるさい. 寮暮らしのため防音箱を作ることにした.  
 
+### 防音箱の設計
+
 始めに防音箱の主材料を決めた. 遮音性能は質量で決まるらしく, 金属で作りたいと思ったが値段的に木材で妥協した.  
 結局木材の中で密度の高いパーティクルボードで作ることにした. 比重は0.7くらい.  
 厚さを決めなければいけない. 遮音性能は次式できまるそうだ(<a href="http://park1.wakwak.com/~are/annoise/sound/oto-s2.html">あやしい出典</a>).  
@@ -44,15 +46,17 @@ CNCフライスは自分のよく使う条件(15000rpm = 250Hz)で使ってい�
 
 主材料が決まったので設計した.  
 
-<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD1.JPG">
+<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD1.jpg">
 
-<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD2.JPG">
+<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD2.jpg">
 
 基本的にCNCフライスを覆ってるだけのなので素直に直方体形状. 覗き穴も設けた1.  
 
-<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD3.JPG">
+<img src="https://gakuseishitsu.github.io/images/soundproof_box/CAD3.jpg">
 
 パーツ単位でみるとこんな感じ.  
+
+### 防音箱の製造
 
 <img src="https://gakuseishitsu.github.io/images/soundproof_box/SB1.JPG">
 
