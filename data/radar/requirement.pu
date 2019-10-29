@@ -1,0 +1,56 @@
+@startuml
+
+hide circle
+hide empty members
+hide method
+
+skinparam monochrome true
+
+!define REQ1 "主目標"
+!define REQ2 "基本性能"
+!define REQ3 "制約"
+!define REQ4 "副目標"
+
+!definelong req(name,reqid,txt,label)
+class name as label <<requirement>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!definelong freq(name,reqid,txt,label)
+class name as label <<functionalRequirement>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!definelong dcnstr(name,reqid,txt,label)
+class name as label <<designConstraint>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!define nest(x,y) x +-- y
+!define derive(x,y) x <.. y : <<deriveReqt>>
+!define refine(x,y) x <.. y : <<refine>>
+!define derivel(x,y) x <.. y : <<deriveReqt>> link
+
+package "req [Package] System Requirement [requirement diagram]" <<Frame>> {
+    req(REQ1,S1,距離測定可能なレーダを作る,A1)
+    req(REQ2,S1.1,物体との距離を測って表示する,A2)
+    req(REQ3,S1.2,電波法を守る,A3)
+    req(REQ4,S2,SysMLのダイアグラム描画の練習する,A4)
+    req(REQ3,S1.3,100V電源で動く,A5)
+    req(REQ2,S1.4,PCと通信出来る,A6)
+    req(REQ3,S1.5,部品レベルで買う,A7)
+}
+
+nest(A1,A2)
+nest(A1,A3)
+nest(A1,A5)
+nest(A1,A6)
+nest(A1,A7)
+
+@enduml
