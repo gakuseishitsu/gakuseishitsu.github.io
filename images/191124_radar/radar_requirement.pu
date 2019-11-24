@@ -1,0 +1,84 @@
+@startuml
+
+hide circle
+hide empty members
+hide method
+
+skinparam monochrome true
+
+!define REQ1 "主目標"
+!define REQ2 "基本性能"
+!define REQ3 "制約"
+!define REQ4 "副目標"
+
+!definelong req(name,reqid,txt,label)
+class name as label <<requirement>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!definelong freq(name,reqid,txt,label)
+class name as label <<functionalRequirement>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!definelong dcnstr(name,reqid,txt,label)
+class name as label <<designConstraint>> {
+id="reqid"
+text="txt"
+}
+!enddefinelong
+
+!define nest(x,y) x +-- y
+!define derive(x,y) x <.. y : <<deriveReqt>>
+!define refine(x,y) x <.. y : <<refine>>
+!define derivel(x,y) x <.. y : <<deriveReqt>> link
+
+package "req [Package] System Requirement [requirement diagram]" <<Frame>> {
+    req(REQ1,S1,距離測定可能なレーダを作る,A1)
+        req(REQ2,S1.1,物体との距離を測って表示する,A11)
+            req(REQ2,S1.1.1,送信信号を生成する,A111)
+            req(REQ2,S1.1.2,電波を発射する,A112)
+            req(REQ2,S1.1.3,電波を受信する,A113)
+            req(REQ2,S1.1.4,受信信号を解析する,A114)
+            req(REQ2,S1.1.5,解析結果を表示する,A115)
+        req(REQ3,S1.2,電波法を守る,A12)
+            req(REQ3,S1.2.1,電波暗室内で使用する,A121)
+        req(REQ3,S1.3,100V電源で動く,A13)
+        req(REQ3,S1.4,部品レベルで買う,A14)
+        req(REQ3,S1.5,手で持ち運べるサイズに納める,A15)
+    req(REQ4,S2,SysMLのダイアグラム描画の練習する,A2)
+
+    req(REQ2,S1.1.4.1,データの解析/表示はPCに生データを送信してPC内で実施する,A1141)
+
+    note "RFコンポは作れないから買い物" as N1
+    note "スペアナ持ってないからRF部デバッグは無理!" as N2
+}
+
+nest(A1,A11)
+nest(A1,A12)
+nest(A1,A13)
+nest(A1,A14)
+nest(A1,A15)
+
+derive(A11,A111)
+derive(A11,A112)
+derive(A11,A113)
+derive(A11,A114)
+derive(A11,A115)
+
+derive(A114,A1141)
+derive(A115,A1141)
+
+derive(A12,A121)
+note top on link : <<rationale>>おそらく送信電力は微弱無線局以上
+
+A14 .. N1
+A111 .. N2
+A112 .. N2
+A113 .. N2
+
+@enduml
