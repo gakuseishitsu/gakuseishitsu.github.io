@@ -6,9 +6,8 @@ title: Personal Works
 
 ---
 
-# Personal Works (2011~2019)
-* 19-12-09 Takumi Abe
-* This page describes the summary of my personal works and each required skills.
+19-12-09 Takumi Abe
+* This page describes the summary of my personal works(2011~2019) and each required skills.
   * For more information, please refer my blog (written in Japanese)
     * Blog: https://gakuseishitsu.github.io/
 
