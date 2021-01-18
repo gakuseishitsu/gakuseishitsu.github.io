@@ -51,7 +51,5 @@ RasPiは別でも使うだろうし、しっかりした筐体を作るつもり
 
 
 # 参考文献
-[1] CO2センサーを利用して部屋のCO2濃度を検出してみた
- - URL:https://www.asteria.com/jp/warp/blog/20180314/30301.html
-
+[1] [CO2センサーを利用して部屋のCO2濃度を検出してみた](https://www.asteria.com/jp/warp/blog/20180314/30301.html)
 
