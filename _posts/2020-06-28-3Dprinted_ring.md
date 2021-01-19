@@ -30,9 +30,9 @@ title: 3Dプリントした指輪
 # おわりに
 twitterに上げたら意外と見られて1000いいねもらえた(うれしい)。
 
-<img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/200628_3Dprinted_ring/3Dring_1000.jpg">
+<img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/200628_3Dprinted_ring/3Dring_1000.PNG">
 
-(21-01-19追記)
+(21-01-19追記)  
 身に着けて数か月経った。さすがにプラチナと違ってどんどん変色していったり細かい傷が目立つようになったが基本的に問題なく使えていて満足している。
 
 
