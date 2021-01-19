@@ -32,4 +32,4 @@ title: アルミフレームで自転車スタンド
 
 
 # 参考文献
-[1] [SUS GFアルミパイプ構造材 カタログ・CADデータ]](https://fa.sus.co.jp/products/gf/catalog/)
+[1] [SUS GFアルミパイプ構造材 カタログ・CADデータ](https://fa.sus.co.jp/products/gf/catalog/)
