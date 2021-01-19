@@ -9,8 +9,8 @@ title: 3Dプリントしたハーモニックドライブ
 <img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/200710_3Dprinted_harmonic_drive/HD_1.jpg">
 
 # はじめに
-[新しい3Dプリンタを手に入れて](https://gakuseishitsu.github.io/QIDI_Xplus/)性能を試すいいネタが無いかと考えた。
-いままで工作で歯車が必要な時はCNCフライスでやっていたが3Dプリンタでも使える歯車作れないかなと思って歯車を使った何か無いか調べ始めた。
+[新しい3Dプリンタを手に入れて](https://gakuseishitsu.github.io/QIDI_Xplus/)性能を試すいいネタが無いかと考えた。  
+いままで工作で歯車が必要な時はCNCフライスでやっていたが3Dプリンタでも使える歯車作れないかなと思って歯車を使った何か無いか調べ始めた。  
 そこで目に留まったのがハーモニックドライブ。歯車に加えて構造の弾性変形を利用するのでちょうどいいターゲットだと思って設計を開始した。
 
 # 試作1回目
