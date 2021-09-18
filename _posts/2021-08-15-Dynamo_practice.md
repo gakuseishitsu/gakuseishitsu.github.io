@@ -30,7 +30,7 @@ Fusion360等の3DCADでは通常曲面にスケッチを書くことや曲面上
 引き続き本番のアイソグリッド構造の実装をやってみた.  
 Fusion360で作成した曲面をSATファイルに変換して、Dynamoで取り込んで実装. 良い頭の体操になった.  
 
-<img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/210815_dynamo_isogrid/di3.png">
+<img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/210815_dynamo_isogrid/di1.png">
 
 
 <img src="https://raw.githubusercontent.com/gakuseishitsu/gakuseishitsu.github.io/master/images/210815_dynamo_isogrid/di4.png">
