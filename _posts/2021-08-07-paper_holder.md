@@ -61,6 +61,7 @@ title: ペーパーホルダ
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ペーパーホルダ生成. Tスプラインの編集時間溶ける. <a href="https://t.co/6bVTxhcwdF">pic.twitter.com/6bVTxhcwdF</a></p>&mdash; がくせいしつ (@YASUBE_T_AU) <a href="https://twitter.com/YASUBE_T_AU/status/1423806237813088268?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 # おわりに
 結局Generative Designは出てきた結果を考察して1から設計したほうが良い.  
 
